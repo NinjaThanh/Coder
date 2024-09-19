@@ -1,0 +1,5 @@
+ifstream fi("ten file", ios::in|ios::binary);
+ofstream fo("ten file", ios::out|ios::binary);
+long bg=fi.tellg();//cho biet vi tri hien tai (dau doc) trong file
+fi.seekg(0, ios::end); //di chuyen dau doc ve cuoi
+fi.seekg(0, ios::beg);//di chuyen dau doc vef dau

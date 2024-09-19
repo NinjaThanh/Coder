@@ -1,0 +1,11 @@
+So Bao Danh: 317	 Ho Va Ten: Giang	 Diem: 8.00
+ So Bao Danh: 345	 Ho Va Ten: Dinh	 Diem: 9.00
+ So Bao Danh: 321	 Ho Va Ten: Vinh	 Diem: 7.00
+ So Bao Danh: 243	 Ho Va Ten: dinh	 Diem: 9.00
+ So Bao Danh: 23	 Ho Va Ten: da	 Diem: 5.00
+ So Bao Danh: 321	 Ho Va Ten: giang	 Diem: 5.00
+ So Bao Danh: 576	 Ho Va Ten: giang	 Diem: 7.00
+ So Bao Danh: -1	 Ho Va Ten: g	 Diem: 4.00
+ So Bao Danh: 567	 Ho Va Ten: dhia	 Diem: 35.00
+ So Bao Danh: 234	 Ho Va Ten: giang	 Diem: 9.00
+ 

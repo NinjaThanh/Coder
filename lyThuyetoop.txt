@@ -1,0 +1,20 @@
+-lap trinh huong thu tuc la chi chuong trinh thanh cac ham chuc nang
+-cac ham co the chia se du và truy cap den cac du lieu dung chung
+-du lieu duoc nhom vs cac ham thanh cac lop
+-moi ham cua lop chi truy cap, ham cua lop nay khong the truy cap den du lieu cua lop khac
+-lop la mot kieu du lieu do nguoi dung dinh nghia
+-trong lop chua cac thanh phan cua lop, pho bien nhu du lieu hay con goi la thuoc tinh, và thanh viên hay con goi la phuong thuc
+-muc dich cua ham tao:
++)cap phat bo nho cho cac thuoc tinh con tro(neu co)
++)khoi tao gia tri cac thuoc tinh cho cac doi tuong thuoc lop
+
+-cach khai bao ham:
+TenLop([Danh sach cac tham so])
+{
+   //cac lenh cap phat bo nho
+   //cac lenh khoi gan gia tri cac thuoc tinh
+}
++)mot lop co the co nhieu ham
++)ten ham tao phai trung voi ten lop
++)ham tao khong co kieu tra ve;
++)trong moi lop luon co ham tao mac dinhj khong doi so. neu ta dinhj nghia them ham tao moi cho lop thif ham tao mac dinh nay khong con nua.
